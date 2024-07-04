@@ -1,2 +1,2 @@
-# dio-estudos
-Desafio de Projeto sobre Git/GitHub
+# Estudos DIO
+1º Desafio de Projeto sobre Git/GitHub
